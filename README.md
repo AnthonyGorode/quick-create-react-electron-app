@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-For Electron :
+## For Electron :
 
 ## `yarn start` or `npm run start` for development
 
@@ -14,7 +14,7 @@ launch a electron's window with the default interface of react-app
 
 build the application in two folders : build and dist. In a dist folder you can find a .exe file, run it and it will install your application and will automatically open a window with interface of react-app.
 
-For a classic react app :
+## For a classic react app :
 
 ### `yarn react-start` or `npm run react-start`
 
