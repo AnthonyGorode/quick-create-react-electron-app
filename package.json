@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "electron-builder": "^22.1.0",
-    "electron": "^7.0.1"
+    "electron": "^11.5.0"
   },
   "scripts": {
     "react-start": "react-scripts start",
